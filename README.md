@@ -19,3 +19,13 @@ The project was built to address the following business objectives
 
 
 ## Analytical Approach
+
+### 1. **Student Analytics**
+- Created a dynamic segmentation of students status(Active, Dropped, Graduated)
+- Analyzed **attendance rate vs GPA**, department performance of students etc
+- Tracked **monthly enrollment trends** to identify seasonal engagement patterns
+
+### 2. **Course Performance Analysis**
+- Evaluated course difficulty levels(Beginner, Intermediate,Advanced)
+- Measured student success rates by course
+- Ranked courses by popularity and average GPA
