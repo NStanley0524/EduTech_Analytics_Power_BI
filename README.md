@@ -18,3 +18,4 @@ The project was built to address the following business objectives
 - How much revenue is being generated? and what are the trends in **pending payments** and **scholarship distribution**
 
 
+## Analytical Approach
