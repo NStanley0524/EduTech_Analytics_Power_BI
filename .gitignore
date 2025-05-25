@@ -1,0 +1,4 @@
+*.pbix.autosave
+*.pbix-bak
+*.tmp
+.DS_Store
