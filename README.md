@@ -128,6 +128,7 @@ Drillthrough pages allow stakeholders to right-click and explore **individual st
 | **Power Query** | Data transformation and cleaning |
 | **DAX** | Business logic and KPIs |
 | **Star Schema Modeling** | Scalable, optimized data architecture |
+| **Power BI Service** | For live publishing, sharing, and cloud-based report consumption |
 
 
 
