@@ -7,6 +7,17 @@ I led the end-to-end design of a reporting solution that delivers actionable ins
 The goal was to simulate a real-world business case, where decision-makers at an edtech firm need data-driven intelligence to improve academic outcomes, optimize instructor allocation, and ensure sustainable revenue flow.
 
 
+
+## 🔗 Live Dashboard
+
+You can interact with the fully published Power BI dashboard here:
+
+[View on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNTMzMTQyMDMtYjdlNy00NDMwLWFjYzktZjk1ZGY1NWQ1MWU4IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
+
+
+> *(Best viewed on desktop for full functionality. Ensure pop-ups are allowed.)*
+
+
 ## Project Objectives
 
 The project was built to address the following business objectives
