@@ -30,6 +30,18 @@ The project was built to address the following business objectives
 
 
 
+## Tools & Technologies
+
+| Tool | Use |
+|------|-----|
+| **Power BI Desktop** | Data modeling, dashboard creation |
+| **Power Query** | Data transformation and cleaning |
+| **DAX** | Business logic and KPIs |
+| **Star Schema Modeling** | Scalable, optimized data architecture |
+| **Power BI Service** | For live publishing, sharing, and cloud-based report consumption |
+
+
+
 ## Data Model Overview
 
 The Power BI data model was built using **Star Schema** principles for performance and scalability:
@@ -118,18 +130,6 @@ Drillthrough pages allow stakeholders to right-click and explore **individual st
 
 
 ![Financial Drillthrough](images/Drillthrough_Pagge2.png)
-
-
-
-## Tools & Technologies
-
-| Tool | Use |
-|------|-----|
-| **Power BI Desktop** | Data modeling, dashboard creation |
-| **Power Query** | Data transformation and cleaning |
-| **DAX** | Business logic and KPIs |
-| **Star Schema Modeling** | Scalable, optimized data architecture |
-| **Power BI Service** | For live publishing, sharing, and cloud-based report consumption |
 
 
 
