@@ -29,6 +29,25 @@ The project was built to address the following business objectives
 - How much revenue is being generated? and what are the trends in **pending payments** and **scholarship distribution**
 
 
+
+## Data Model Overview
+
+The Power BI data model was built using **Star Schema** principles for performance and scalability:
+
+- **Fact Tables**: Student Table
+- **Dimension Tables**: Students, Instructors, Courses, Financials.
+
+
+Below is the image of the Data Model
+
+![Data Model](images/Data_Model.png)
+
+
+
+> All data was cleansed and transformed using **Power Query**. Calculations and KPIs were built using **DAX** to ensure optimized performance and modularity.
+
+
+
 ## Analytical Approach
 
 ### 1. **Student Analytics**
@@ -66,24 +85,6 @@ The project was built to address the following business objectives
 **Financial Analytics**
 
 ![Financials Page](images/Financials_Page.png)
-
-
-
-## Data Model Overview
-
-The Power BI data model was built using **Star Schema** principles for performance and scalability:
-
-- **Fact Tables**: Student Table
-- **Dimension Tables**: Students, Instructors, Courses, Financials.
-
-
-Below is the image of the Data Model
-
-![Data Model](images/Data_Model.png)
-
-
-
-> All data was cleansed and transformed using **Power Query**. Calculations and KPIs were built using **DAX** to ensure optimized performance and modularity.
 
 
 
