@@ -63,36 +63,68 @@ Below is the image of the Data Model
 ## Analytical Approach
 
 ### 1. **Student Analytics**
-- Created a dynamic segmentation of students status(Active, Dropped, Graduated)
-- Analyzed **attendance rate vs GPA**, department performance of students etc
-- Tracked **monthly enrollment trends** to identify seasonal engagement patterns
+
+- Monitor Student Metrics: Track total students, attendance, and GPA in real time.
+
+- Performance Evaluation: Identify top and least performing students based on grade for targeted interventions.
+
+- Financial Tracking: Monitor revenue and pending payments to ensure financial stability.
+
+- Student Status Tracking: Visualize the status of students (active, dropped, graduated) for retention analysis.
+
+- Trend Analysis: Observe performance trends over time (e.g., GPA changes) to guide decisions.
+
+- Allow the filtering of the data based on year,students status,top and least perfroming students and also by student name
 
 **Students Analytics**
 
 ![Student Page](images/Student_Page.png)
 
 ### 2. **Course Performance Analysis**
-- Evaluated course difficulty levels(Beginner, Intermediate,Advanced)
-- Measured student success rates by course
-- Ranked courses by popularity and average GPA
+
+- Monitor Course Metrics: Track the number of subjects (50) and courses (19) offered, along with the total number of students (869).
+
+- Course Performance Over Time: Analyze trends in course performance baseed on grades across several months.
+
+- Subject-Specific Performance: Evaluate the performance of specific courses based on satisfaction levels of the students to identify top-performing subjects and subjects that students love the most.
+
+- Course Difficulty Analysis: Assess the difficulty levels of the difeerent courses as assesed from the students to understand how students are interacting with different course levels.
+
+- Allow filtering of the data by courses, year, students status and top and least performing subjects  based on students satisaction levels.
 
 **Course Perforance Analytics**
 
 ![Course Page](images/Courses_Page.png)
 
 ### 3. **Instructor Performance Analytics**
-- Assessed instructor workload: students per instructor
-- Compared average credit load with performance ratings
-- Identified top rated and low-performing instructors to informing retention and training strategies
+
+- Monitor Instructor Metrics: Track total instructors (4) and total students (869), with an average instructor rating (5.01).
+
+- Instructor Performance Evaluation: Show individual instructor ratings to compare performance (Michelle Stephens has the highest rating at 5.18).
+
+- Instructor Satisfaction: Visualize instructor satisfaction scores to understand how students feel about each instructor, helping to identify strengths and areas for improvement.
+
+- Instructor Information: Provide detailed instructor data, including years of experience, department, students per instructor, credit load, and average ratings.
+
+- Allow filtering of the data by instructor name,year and students status to get more deeper iinsights.
 
 **Instructor Performance Analytics**
 
 ![Instructor Page](images/Instructor_Page.png)
 
 ### 4. **Financial Analytics**
-- Broke down students on **tuition vs scholarship** across departments
-- Monitored payment status
-- Highlighted key revenue contributors
+
+- Track Financial Metrics: Monitor total revenue (25M), pending payments (9M), scholarships (5M), and payable amounts (20M).
+
+- Student Financial Breakdown: Visualize individual contributions to tuition fees and scholarships, helping to identify the largest contributors (e.g., Heather Jones, Daniel Sullivan).
+
+- Payment Distribution: Analyze payment statuses (overdue, paid, pending) with a breakdown to assess financial health and manage collection efforts.
+
+- Payment Trends: Track payable amounts over time to understand seasonal trends in payments and predict future cash flow.
+
+- Department Financials: Analyze tuition fees by department (Data Science, Data Engineering, Data Analytics, Cyber Security) to see where revenue is being generated.
+
+- Allow filtering of the data by year,students status and paybable and scholarship payment distribution.
 
 **Financial Analytics**
 
@@ -137,10 +169,36 @@ Drillthrough pages allow stakeholders to right-click and explore **individual st
 
 Here are some key takeaways derived from the dashboard:
 
-- **Melissa Jackson** has the highest student load (503) with a high performance rating (4.98), suggesting scalable teaching efficiency.
-- The **Data Science** and **Cybersecurity** departments each contribute over 33% to LearnSphere’s total revenue.
-- **Over 25% of students** are flagged for intervention based on attendance, payment status, or poor grades.
-- **$17M in pending tuition fees** poses a major risk to cash flow; most overdue payments are concentrated in the Computer Science and Psychology majors.
+### 1. Student
+
+Student Performance Monitoring: 869 students are being tracked, with key metrics like attendance (74.9%) and average GPA (74.46). The dashboard helps identify top and low performers for personalized intervention.
+
+Enrollment Status: Majority of students are Active (81.1%), with a small proportion Dropped (9.0%) and Graduated (10.0%), which can inform retention strategies.
+
+Financial Tracking: 64.85% of the revenue is realized, helping track financial health and pending payments.
+
+### 2. Courses
+Course Performance: Performance of key courses like Cyber Security, Data Analytics, and Data Engineering fluctuates over time, suggesting the need for ongoing assessment and improvements.
+
+Subject Performance: Courses like SQL for Data Analysis are performing well, students are satisfied and like the course, while others may need additional attention or support.
+
+Course Difficulty Distribution: A balance of difficulty levels (Beginner, Intermediate, Advanced) shows that courses are well-balanced for varying skill levels.
+
+## 3. Instructor
+Instructor Performance: Overall instructor ratings are positive, with Michelle Stephens being the highest-rated instructor (5.18). These ratings help identify areas for improvement or reinforcement.
+
+Instructor Satisfaction: The satisfaction distribution across instructors indicates that there is generally positive feedback, but variations suggest room for improvement in certain areas.
+
+Instructor Data: Key metrics such as Years of Experience, Student per Instructor, and Average Instructor Rating provide valuable data for staffing and future assignments.
+
+## 4. Financials
+Financial Overview: Total revenue is 25M, with pending payments of 9M and scholarships of 5M. This helps track the financial flow and ensure resources are allocated efficiently.
+
+Payment Trends: Payments fluctuate throughout the year, with some periods experiencing lower payables. Understanding these trends helps anticipate cash flow and plan financial operations.
+
+Tuition Fees by Department: The largest revenue comes from Data Science, followed by Data Engineering, suggesting these departments are key revenue drivers.
+
+Scholarship Allocation: Scholarships make up a portion of the total financial picture, and analyzing their distribution can inform financial aid decisions.
 
 
 ## Future Enhancements
