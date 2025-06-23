@@ -178,6 +178,7 @@ Enrollment Status: Majority of students are Active (81.1%), with a small proport
 Financial Tracking: 64.85% of the revenue is realized, helping track financial health and pending payments.
 
 ### 2. Courses
+
 Course Performance: Performance of key courses like Cyber Security, Data Analytics, and Data Engineering fluctuates over time, suggesting the need for ongoing assessment and improvements.
 
 Subject Performance: Courses like SQL for Data Analysis are performing well, students are satisfied and like the course, while others may need additional attention or support.
@@ -185,6 +186,7 @@ Subject Performance: Courses like SQL for Data Analysis are performing well, stu
 Course Difficulty Distribution: A balance of difficulty levels (Beginner, Intermediate, Advanced) shows that courses are well-balanced for varying skill levels.
 
 ## 3. Instructor
+
 Instructor Performance: Overall instructor ratings are positive, with Michelle Stephens being the highest-rated instructor (5.18). These ratings help identify areas for improvement or reinforcement.
 
 Instructor Satisfaction: The satisfaction distribution across instructors indicates that there is generally positive feedback, but variations suggest room for improvement in certain areas.
@@ -192,6 +194,7 @@ Instructor Satisfaction: The satisfaction distribution across instructors indica
 Instructor Data: Key metrics such as Years of Experience, Student per Instructor, and Average Instructor Rating provide valuable data for staffing and future assignments.
 
 ## 4. Financials
+
 Financial Overview: Total revenue is 25M, with pending payments of 9M and scholarships of 5M. This helps track the financial flow and ensure resources are allocated efficiently.
 
 Payment Trends: Payments fluctuate throughout the year, with some periods experiencing lower payables. Understanding these trends helps anticipate cash flow and plan financial operations.
